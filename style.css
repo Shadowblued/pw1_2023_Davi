@@ -1,4 +1,7 @@
 .header{
-    background-color: black;
+    background-color: #8CB53F;
     color: white;
+    font-family: 'Montserrat', sans-serif;
+    height: 120px;
+    padding-top: 5%;
 }
