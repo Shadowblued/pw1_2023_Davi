@@ -1,7 +1,27 @@
-.header{
-    background-color: #8CB53F;
-    color: white;
+body{
     font-family: 'Montserrat', sans-serif;
-    height: 120px;
-    padding-top: 5%;
+    background-color: darkgray;
+}
+header{
+    color: white;
+    height: 100;
+    text-decoration-style: none;
+    text-align: right;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    list-style: none;
+    
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    background-color: red;
 }
