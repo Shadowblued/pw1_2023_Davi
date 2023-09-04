@@ -7,7 +7,7 @@
 
 body{
     background-color: #ED403C;
-    color: beige;
+    color: white;
     font-family:'Montserrat', sans-serif;
 }
 
@@ -33,11 +33,18 @@ li{
 #menu{
     text-align: right;
     font-size: x-large;
-    padding: 50px;
 }
 
-img{
-    background-size: 50%;
+h1{
+    padding: 50px 0px 20px 50px;
+}
+
+article{
+    padding: 50;
+    text-align: left;
+    font-size: x-large;
+    padding-left: 30px;
+    text-indent: 20px;
 }
 
 li:hover{
