@@ -33,11 +33,7 @@ li{
 #menu{
     text-align: right;
     font-size: x-large;
-    padding: 50px;
-}
-
-img{
-    background-size: 50%;
+    
 }
 
 li:hover{
@@ -45,3 +41,11 @@ li:hover{
     color: white;
     padding: 0px 20px 0px 20px;
 }
+
+main > img{
+    display: block;
+    width: 80%;
+    text-align: right;
+
+}
+

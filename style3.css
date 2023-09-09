@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    max-width: 1200;
+}
+
+body{
+    background-color: #ED403C;
+    color: white;
+    font-family:'Montserrat', sans-serif;
+}
+
+header {
+    background-color: white;
+    
+}
+
+li{
+    list-style: none;
+    text-align: center;
+    color: #ff0000;
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px;
+}
+
+#logo{
+    text-align: left;
+
+}
+
+#menu{
+    text-align: right;
+    font-size: x-large;
+}
+
+main{
+    padding: 60px;
+}
+
+p{
+    padding-top: 20px;
+}
