@@ -42,3 +42,35 @@ main{
 p{
     padding-top: 20px;
 }
+
+footer{
+    background-color: black;
+    padding: 50px;
+}
+
+footer > ul > li > a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+footer > ul > li > a:hover{
+    background-color: rgb(255, 255, 255);
+    color:black;
+    font-weight: 500;
+    border-radius: 15px;
+    list-style: none;
+    text-decoration: none;
+    padding: 20px;
+}
+
+footer > ul > li{
+    display: block;
+    text-align: left;
+    
+}
+
+footer > ul > li:hover{
+    background-color: black;
+}
