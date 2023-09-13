@@ -40,7 +40,7 @@ h1{
 }
 
 article{
-    padding: 50;
+    padding: 50px;
     text-align: left;
     font-size: x-large;
     padding-left: 30px;
@@ -56,6 +56,7 @@ li:hover{
 footer{
     background-color: black;
     padding: 50px;
+    line-height: 30px;
 }
 
 footer > ul > li > a{
@@ -73,6 +74,7 @@ footer > ul > li > a:hover{
     list-style: none;
     text-decoration: none;
     padding: 20px;
+
 }
 
 footer > ul > li{
@@ -83,4 +85,24 @@ footer > ul > li{
 
 footer > ul > li:hover{
     background-color: black;
+}
+
+main{
+    height: 500px;
+    width: 50%;
+    margin-left: 150px;
+}
+
+main > p{
+    padding: 50px;
+    text-align: left;
+    font-size: x-large;
+    padding-left: 30px;
+    text-indent: 20px;
+}
+
+main > p > img{
+    vertical-align: baseline;
+    display: flexbox;
+    width: 600px;
 }

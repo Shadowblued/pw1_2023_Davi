@@ -110,3 +110,6 @@ footer > ul > li{
 footer > ul > li:hover{
     background-color: black;
 }
+article > p{
+    margin: 100px;
+}
